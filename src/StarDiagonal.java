@@ -1,4 +1,4 @@
-public class Pattern12 {
+public class StarDiagonal {
     public static void main(String[] args) {
         for (int i=1; i<=5;i++)
         {
