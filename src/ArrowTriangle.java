@@ -15,8 +15,7 @@ public class ArrowTriangle {
 	        	System.out.println();
 	        }
 
-		System.out.println("new changes 1st");
-	        
+
 
 	}
 
